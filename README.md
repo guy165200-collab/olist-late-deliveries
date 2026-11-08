@@ -176,4 +176,4 @@ olist-late-deliveries/
 
 ---
 
-**Author:** Guy · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Email](mailto:YOUR-EMAIL) · Project date: November 2026
+**Author:** Guy · [LinkedIn](https://www.linkedin.com/in/guy-benbassat16) · [Email](mailto:Guy165200@gmail.com) · Project date: November 2026
